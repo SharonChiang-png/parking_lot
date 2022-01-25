@@ -1,5 +1,7 @@
 # parking_lot
-current branches:
+master: high school diary
+
+updating current branches:
 -fanfic
 -research
--high school diary
+
